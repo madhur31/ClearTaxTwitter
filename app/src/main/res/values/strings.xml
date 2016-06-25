@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClearTaxTask</string>
+
+    <string name="activity_main">ClearTax</string>
+
+    <string name="splash">ClearTax</string>
+</resources>
